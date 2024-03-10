@@ -1,0 +1,6 @@
+{
+    "lr_spikes": {"_type": "loguniform",
+           "_value": [0.01,10]},
+    "lr_dec": {"_type": "loguniform",
+           "_value": [0.01,10]}
+}

@@ -1,0 +1,6 @@
+*.pt
+isi_vs_fft/
+seed_coll/
+syntethic_data/
+__pycache__
+*.zip

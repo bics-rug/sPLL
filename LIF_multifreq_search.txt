@@ -1,0 +1,16 @@
+{
+    "lr_spikes": {"_type": "loguniform",
+           "_value": [1e-7,0.1]},
+    "lr_dec": {"_type": "loguniform",
+           "_value": [1e-7,0.1]},
+    "reg_l0": {"_type": "loguniform",
+                "_value": [1e-9,1e-2]},
+    "reg_l1": {"_type": "loguniform",
+                "_value": [1e-9,1e-2]},
+    "avg_spike_count": {"_type": "uniform",
+                "_value": [10,300]},
+    "tau_Osc": {"_type": "loguniform",
+                "_value": [1e-3,1e-1]},
+    "tau_Osc_Ie": {"_type": "loguniform",
+                "_value": [1e-3,1e-1]}
+}

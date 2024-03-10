@@ -1,6 +1,6 @@
 
 # Spiking Phase Locked Loop
-![spll_scheme]("./spll_scheme.png" "a title")
+![spll_scheme]("spll_scheme.png" "a title")
 
 The repository containing the code used in the paper ....
 If this work helps you in your research consider citing it using: 

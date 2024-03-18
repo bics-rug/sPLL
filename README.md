@@ -2,8 +2,8 @@
 # Spiking Phase Locked Loop
 ![spll_scheme](spll_scheme.png "sPLL scheme")
 
-The repository containing the code used in the paper ....
-If this work helps you in your research consider citing it using: 
+The repository containing the code used in the paper "Mastella, M., Tiemens, T. & Chicca, E. _Texture Recognition Using a Biologically Plausible Spiking Phase-Locked Loop Model for Spike Train Frequency Decomposition_ **2024**. arXiv: 2403.09723 [q-bio]"
+If this work helps you in your research consider citing it from here: https://arxiv.org/abs/2403.09723
 
 ## Structure
 The paper is divided in four different experiments. 
